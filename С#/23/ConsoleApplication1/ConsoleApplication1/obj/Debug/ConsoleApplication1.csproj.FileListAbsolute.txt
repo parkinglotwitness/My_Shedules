@@ -1,0 +1,7 @@
+\\server1\Profiles_ST\ProfilesDO\315221\Desktop\p1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+\\server1\Profiles_ST\ProfilesDO\315221\Desktop\p1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\server1\Profiles_ST\ProfilesDO\315221\Desktop\p1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\server1\Profiles_ST\ProfilesDO\315221\Desktop\p1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\server1\Profiles_ST\ProfilesDO\315221\Desktop\p1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\server1\Profiles_ST\ProfilesDO\315221\Desktop\p1-2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\server1\Profiles_ST\ProfilesDO\315221\Desktop\p1-2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

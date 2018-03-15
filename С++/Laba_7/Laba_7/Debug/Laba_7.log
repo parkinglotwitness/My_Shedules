@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\romerio\desktop\laba_7\laba_7\source.cpp(20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\romerio\desktop\laba_7\laba_7\source.cpp(78): warning C4715: function: значение возвращается не при всех путях выполнения
+  Laba_7.vcxproj -> C:\Users\Romerio\Desktop\Laba_7\Debug\Laba_7.exe

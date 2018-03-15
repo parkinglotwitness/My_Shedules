@@ -1,0 +1,28 @@
+// jhgfjhg.cpp : main project file.
+
+#include "stdafx.h"
+#include<iostream>
+#include<cstdlib>
+#include<stdio.h>
+using namespace std;
+
+int main(){
+
+setlocale(LC_ALL, "Russian");
+char a[80];
+int i;
+printf( "\n ¬ведите строку и зап€тую \n" );
+gets ( a );
+i = 0; 
+while (a[i] != '\0' ) 
+{
+if ( a[i] == ',' ) 
+a[i] = ' '; 
+i ++; 
+}
+puts ( "Rezult:\n" );
+puts ( a );
+
+system("pause");
+return 0;
+}

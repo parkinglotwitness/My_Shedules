@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\romerio\desktop\шарага\кп и яп\лаботаторные работы\lab4_1\lab4_1\source.cpp(37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\romerio\desktop\шарага\кп и яп\лаботаторные работы\lab4_1\lab4_1\source.cpp(59): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\romerio\desktop\шарага\кп и яп\лаботаторные работы\lab4_1\lab4_1\source.cpp(61): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab4_1.vcxproj -> C:\Users\Romerio\Desktop\шарага\КП и ЯП\Лаботаторные работы\lab4_1\Debug\lab4_1.exe

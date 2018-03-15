@@ -1,0 +1,16 @@
+#include "stdafx.h"
+#include <iostream> 
+
+using namespace std;
+int main() 
+{
+	char str[] = "GITLER"; 
+    char s[] = "ADOLF"; 
+ 
+    if(strstr(str, s)) 
+        std::cout << "True " << std::endl; 
+    else 
+		std::cout << "False " << std::endl;
+    system("pause");
+    return 0;
+}
